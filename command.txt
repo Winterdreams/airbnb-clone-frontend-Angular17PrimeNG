@@ -1,0 +1,3 @@
+ng new airbnb-clone-front --style scss --standalone
+npm install primeng@17 primeflex
+ng add @fortawesome/angular-fontawesome
