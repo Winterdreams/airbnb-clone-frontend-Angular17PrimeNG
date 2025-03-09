@@ -154,7 +154,7 @@ export class CategoryService {
     return this.categories;
   }
 
-  getCategoryByDefault() : Category {
+  getCategoryByDefault() {
     return this.categories[0];
   }
 
